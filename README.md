@@ -1,4 +1,4 @@
-Aaron.SharePoint.Common
+First of First
 =======================
 
-Some common class and apis for SharePoint operations
+Just want to see what will happen if i use this service before i create any other contents.
