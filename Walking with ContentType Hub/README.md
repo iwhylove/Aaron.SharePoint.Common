@@ -1,0 +1,4 @@
+##Content Type Hub
+做SharePoint开发应该都比较熟悉一些术语其中之一就是ContentType. 打一个不太恰当的比方,ContentType可以简单理解成SharePoint环境中的一个类,带有自己的属性(字段),当然也可以被继承.在之前版本的SharePoint版本中,跨SiteCollection共享ContentType是无法实现的,这就对当时有这些需求的开发人员来说带来了很多困扰.<br />
+
+<br />开发,部署ContentType的方法对与一直和SharePoint开发打交道的大家来说也肯定不陌生.那么问题来了,如果你管理着许多部署了同样的ContentType的网站,当需要新增/修改/删除某些字段时,你需要做什么?这种情况在同一个SiteCollection下如果还能接受,那么如果这些站点分别位于不同的SiteCollection怎么办?
