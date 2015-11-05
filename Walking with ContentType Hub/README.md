@@ -18,7 +18,7 @@ Content Type Hub是一个集中发布CT的站点,所有订阅了相同的Content
 所以现在关系应该和下面这张图看上去差不多.<br />
 *请原谅一个不会做PPT的人情急之下的无奈之选.*
 ![Figure 1](http://share.idaxiang.org/notes/xJhJlV5pJhtFBpBR/20151105/hll11lFlpld1xBNth5Z1NVZtBpBxhplpV51Ndt9ZBZVdlx1Jp1dFx9x1BZZFJ1VF/images/bc381fddd92eb2ec874e8a6f98db4f3b.jpg)
-看到这里,你一定会发自内心的说一句,哎哟,看上去好像不错哦(然而并没有,是吗?). 那么怎么才能让我尽快的用上这样"高大上"的功能呢? 在下一遍该系列文章中,我们将详细介绍如何创建和配置Content Type Hub.
+看到这里,你一定会发自内心的说一句,哎哟,看上去好像不错哦(然而并没有,是吗?). 那么怎么才能让我尽快的用上这样"高大上"的功能呢? 在下一篇该系列文章中,我们将详细介绍如何创建和配置Content Type Hub.
 
 
 *参考文章*
