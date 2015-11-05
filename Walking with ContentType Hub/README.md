@@ -24,6 +24,7 @@ Content Type Hub是一个集中发布CT的站点,所有订阅了相同的Content
 *参考文章*
 
 > [https://technet.microsoft.com/library/cc560988.aspx](https://technet.microsoft.com/library/cc560988.aspx "Services architecture planning (SharePoint Server 2010)")
+
 > [https://technet.microsoft.com/en-us/library/ee424403.aspx](https://technet.microsoft.com/en-us/library/ee424403.aspx "Overview of managed metadata service applications in SharePoint Server 2013")
 
 #### 题外话2 ####
