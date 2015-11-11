@@ -1,4 +1,4 @@
-First of First
+About this repository
 =======================
 
-Just want to see what will happen if i use this service before i create any other contents.
+Nothing will happen
