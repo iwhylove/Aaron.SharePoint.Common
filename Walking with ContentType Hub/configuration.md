@@ -54,5 +54,10 @@
 
 ![Update Proxy properties](Content Type Configuration Screenshots/update_mms_4_4.jpg)
 
-在弹出的窗口中确认选中了第三第四个Checkbox,点击
+在弹出的窗口中确认选中了第三第四个Checkbox,点击OK保存修改.
+
+![Update proxy properties](Content Type Configuration Screenshots/update_mms_4_5.jpg)
+
+恭喜你,至此你已经在Farm中成功配置了Content Type Hub 了,你可以尽情的享用它带给你的便利了.是不是很激动?好吧,我知道你还有一头雾水想知道怎么用起来是吗?哎,我就是那么善解人意.
+
 
