@@ -18,7 +18,7 @@
 ![Activate Feature](Content Type Configuration Screenshots/cthub_provision_2.jpg)
 
 
-#####Step2 - 在Managed Metadata Service 中注册 Content Type Hub#####
+#####Step2 - 确认WebApplication 所关联的Managed Metadata Service#####
 *注意:Step2 对与在Farm中只有一个Managed Metadata Service 的环境来说可以忽略*
 
 首先我们确认一下在Step1 中的SC所关联的Managed Metadata Service. 这一步对与在同一个Farm中有多个MMS的情况来说是必要的. 我们来到管理中心的 web applications 管理界面
@@ -34,4 +34,6 @@
 
 ![Record name of MMS](Content Type Configuration Screenshots/ensure_mms_3_3.jpg)
 
+
+####Step3 - 在Managed Metadata Service 中注册 Content Type Hub ####
 
