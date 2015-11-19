@@ -36,4 +36,10 @@
 
 
 ####Step3 - 在Managed Metadata Service 中注册 Content Type Hub ####
+在管理中心打开Service Application的管理页面
 
+![Manage service applications](Content Type Configuration Screenshots/update_mms_4_1.jpg)
+
+选中对应的Managed Metadata Service,并且点击Ribbon上的Properties按钮
+
+![Choose MMS](Content Type Configuration Screenshots/update_mms_4_2.jpg)
