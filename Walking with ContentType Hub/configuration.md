@@ -49,3 +49,10 @@
 ![Update Content Type Hub](Content Type Configuration Screenshots/update_mms_4_3.jpg)
 
 *注意:你只有一次机会用SharePoint提供的界面来修改Content Type Hub,一旦保存后,就无法再次用界面来修改了.*
+
+还差一步就能完成了. 请选中MMS的Proxy并且点击Ribbon上的Properties按钮
+
+![Update Proxy properties](Content Type Configuration Screenshots/update_mms_4_4.jpg)
+
+在弹出的窗口中确认选中了第三第四个Checkbox,点击
+
