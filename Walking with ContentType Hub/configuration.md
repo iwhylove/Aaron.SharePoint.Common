@@ -19,6 +19,8 @@
 
 
 #####Step2 - 在Managed Metadata Service 中注册 Content Type Hub#####
+*注意:Step2 对与在Farm中只有一个Managed Metadata Service 的环境来说可以忽略*
+
 首先我们确认一下在Step1 中的SC所关联的Managed Metadata Service. 这一步对与在同一个Farm中有多个MMS的情况来说是必要的. 我们来到管理中心的 web applications 管理界面
 
 ![Manage web applications](Content Type Configuration Screenshots/ensure_mms_3_1.jpg)
@@ -31,3 +33,5 @@
 在弹出窗口中,确认和当前WebApplication 关联的 Managed Metadata Service 是哪一个,记下名字后关闭窗口.
 
 ![Record name of MMS](Content Type Configuration Screenshots/ensure_mms_3_3.jpg)
+
+
