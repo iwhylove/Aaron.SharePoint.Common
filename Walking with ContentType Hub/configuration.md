@@ -58,6 +58,12 @@
 
 ![Update proxy properties](Content Type Configuration Screenshots/update_mms_4_5.jpg)
 
-恭喜你,至此你已经在Farm中成功配置了Content Type Hub 了,你可以尽情的享用它带给你的便利了.是不是很激动?好吧,我知道你还有一头雾水想知道怎么用起来是吗?哎,我就是那么善解人意.
+恭喜你,至此你已经在Farm中成功配置了Content Type Hub 了,你可以尽情的享用它带给你的便利了.是不是很激动?
+
+好吧,我知道你还是一头雾水的在想,虽然已经配置好了,但是我怎么用起来呢? 哎,我就是那么善解人意.
+
+可惜时间不早了,等下次我一定告诉你一些大家都想知道的的诀窍 ;)
+
+
 
 
