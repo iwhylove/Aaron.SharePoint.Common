@@ -47,3 +47,5 @@
 在弹出的修改属性界面中,把Content Type Hub 的地址输入并且点击OK按钮进行保存
 
 ![Update Content Type Hub](Content Type Configuration Screenshots/update_mms_4_3.jpg)
+
+*注意:你只有一次机会用SharePoint提供的界面来修改Content Type Hub,一旦保存后,就无法再次用界面来修改了.*
