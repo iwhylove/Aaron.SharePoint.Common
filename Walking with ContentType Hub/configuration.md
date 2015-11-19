@@ -43,3 +43,7 @@
 选中对应的Managed Metadata Service,并且点击Ribbon上的Properties按钮
 
 ![Choose MMS](Content Type Configuration Screenshots/update_mms_4_2.jpg)
+
+在弹出的修改属性界面中,把Content Type Hub 的地址输入并且点击OK按钮进行保存
+
+![Update Content Type Hub](Content Type Configuration Screenshots/update_mms_4_3.jpg)
