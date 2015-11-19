@@ -11,7 +11,23 @@
 
 
 
+#### 开始吧 ####
+
+#####Step1 - 声明为Content Type Hub#####
+首先我们来到作为Content Type Hub 的Site Collection,在Site Collection Feature 的管理界面中找到并且激活以下Feature(这个Feature默认情况下是停用的)
+![Activate Feature](Content Type Configuration Screenshots/cthub_provision_2.jpg)
 
 
+#####Step2 - 在Managed Metadata Service 中注册 Content Type Hub#####
+首先我们确认一下在Step1 中的SC所关联的Managed Metadata Service. 这一步对与在同一个Farm中有多个MMS的情况来说是必要的. 我们来到管理中心的 web applications 管理界面
+
+![Manage web applications](Content Type Configuration Screenshots/ensure_mms_3_1.jpg)
 
 
+选中需要确认的WebApplication 并且点击Ribbon上的Service Connections 按钮
+
+![Select Web Application](Content Type Configuration Screenshots/ensure_mms_3_2.jpg)
+
+在弹出窗口中,确认和当前WebApplication 关联的 Managed Metadata Service 是哪一个,记下名字后关闭窗口.
+
+![Record name of MMS](Content Type Configuration Screenshots/ensure_mms_3_3.jpg)
