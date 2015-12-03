@@ -5,6 +5,7 @@
 #### 前提和准备工作 ####
 - 假设你已经按照上一篇文章介绍的步骤,在你的SharePoint 环境中创建了一个Content Type Hub
 - 假设你知道如何在SharePoint 中创建Content Type 以及了解和Content Type相关的操作.
+- 我们需要事先在Content Type Hub 中创建字段,在本文中我们创建了2个字段.一个是名为"UserName"的单行文本类型的字段,另一个是名为"MajorLanguage"的Managed Metadata 类型的字段.创建字段的过程略.
  
 
 #### 正式开始吧 ####
