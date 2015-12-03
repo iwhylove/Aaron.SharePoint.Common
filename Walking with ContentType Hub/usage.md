@@ -39,11 +39,19 @@
 1. 第一个Job. 首先我们能够找到的是一个名为"Content Type Hub" 的Job.由于它并不关联具体的某一个Web Application, 所以当你根据Web Application 来过滤Job 状态的时候不会发现它.这个Job 主要负责Content Type 在发布过程中出错后记录相关的日志(用户可以在日志列表中看到所有发布错误的信息)以及其他一些状态的维护.我们这里为了演示,直接点击"Run Now"按钮让这个Job 立刻执行.
 ![Content Type Hub Job](Content Type Configuration Screenshots/check_ct_publishing_7.jpg)
 
-2. 第二个Job. 在切换Job Definition 的时候我们可以发现在第一个Job 的下面还有一个名字看上去和Content Type Hub 相关的Job 
-3. 
+2. 第二个Job. 在切换Job Definition 的时候我们可以发现在第一个Job 的下面还有一个名字看上去和Content Type Hub 相关的Job. 这个看上去好像和Cotent Type 的同步关系更大一些,是吗?
+![Content Type Subscriber](Content Type Configuration Screenshots/check_ct_publishing_9.jpg)
 
+3. 点击这个Job 的Name 查看最后一次运行的时间和状态. 刚才你没有看到由Content Type Hub 发布的Content Type 大多数原因正是因为这个Job 在你发布了Content Type 之后还没有运行过. 由Job 的定义我们看到它是一个以小时为间隔单位来运行的. 那我们为了演示,直接点击"Run Now"按钮让这个Job 立刻执行.
+![Timer Job Status](Content Type Configuration Screenshots/check_ct_publishing_4.jpg)
 
+4. 刷新页面后你也许会看到这个Job 正在执行的状态,如下图
+![Job Running](Content Type Configuration Screenshots/check_ct_publishing_5.jpg)
 
+5. 成功执行后,我们来到Site Collection 的Content Type 管理页面,此时你应该可以看到由Content Type Hub 发布的Content Type 了.
+![Consume Content Type](Content Type Configuration Screenshots/check_ct_publishing_8.jpg)
 
+##### 验证 Content Type#####
+接下来我们来验证一下这个Content Type 在新的站点中是不是能够正常使用.
 
 
