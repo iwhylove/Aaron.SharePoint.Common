@@ -54,4 +54,13 @@
 ##### 验证 Content Type#####
 接下来我们来验证一下这个Content Type 在新的站点中是不是能够正常使用.
 
+1. 我们先看看在当前站点中,这个Content Type 的属性吧.打开页面后,小伙伴们是不是惊呆了,怎么设置里只有一个"Advanced Settings"了,其他的选项呢?
+![Read only](Content Type Configuration Screenshots/ct_readonly_1.jpg)
+由于这个Content Type 是由Content Type Hub 发布的,为了防止通常情况下的误操作,默认已经被设置成ReadOnly状态.如果你一定需要对它进行修改的话,先进入"Advanced Settings"页面去除ReadOnly后就能对它进行编辑,但是这样一来,就大大增加了今后从Content Type Hub 更新Content Type 时出错的可能性
+
+
+2. 
+
+
+
 
