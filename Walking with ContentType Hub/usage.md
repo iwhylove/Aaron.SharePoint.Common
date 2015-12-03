@@ -59,8 +59,19 @@
 由于这个Content Type 是由Content Type Hub 发布的,为了防止通常情况下的误操作,默认已经被设置成ReadOnly状态.如果你一定需要对它进行修改的话,先进入"Advanced Settings"页面去除ReadOnly后就能对它进行编辑,但是这样一来,就大大增加了今后从Content Type Hub 更新Content Type 时出错的可能性
 
 
-2. 
+2. 我们创建一个自定义列表,并且将这个Content Type 加入.如下图所示
+![Add Content Type into List](Content Type Configuration Screenshots/cust_list_1.jpg)
 
+3. 此时,从新建菜单上我们能够看到属于这个Content Type 的菜单了
+![New Item](Content Type Configuration Screenshots/cust_list_2.jpg)
+
+4. 尝试创建一条Item,没有任何问题.
+![Create new item](Content Type Configuration Screenshots/cust_list_3.jpg)
+
+
+#### 就是这么简单 ####
+
+轮到你自己试试看了,也没有想象中那么困难,不是吗?
 
 
 
